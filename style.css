@@ -1,0 +1,291 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+h1{
+    width: 69px;
+    height: 26px;
+    margin: 20px;
+    margin-left: -9px;
+    padding: 20px;
+    font-size: 20px;
+}
+.Home{
+    width: 69px;
+    height: 26px;
+    margin: 10px;
+    margin-left: 90px;
+    padding: 5px;
+    font-size: 20px;
+}
+.Sobre{
+    width: 69px;
+    height: 26px;
+    margin: 10px;
+    margin-left: 90px;
+    padding: 5px;
+    font-size: 20px;
+}
+.Adote{
+    width: 69px;
+    height: 26px;
+    margin: 10px;
+    margin-left: 90px;
+    padding: 5px;
+    font-size: 20px;
+}
+.SejaV{
+    width: 209px;
+    height: 26px;
+    margin: 10px;
+    margin-left: 90px;
+    padding: 2px;
+    font-size: 20px;
+}
+.Menu{
+    width: 69px;
+    height: 26px;
+    margin: 18px;
+    margin-left: -9px;
+    padding: 20px;
+    font-size: 20px;
+}
+.x{
+    width: 30px;
+    height: 30px;
+    background-color:#E5E5E5;
+    border: 2px;
+    margin: 2px;
+    margin-left: 10px;
+    padding: 5px;
+}
+.email{
+    width: 179px;
+    height: 43px;
+    margin: 20px;
+    padding: 10px;
+    margin-left: -2px;
+    font-size: 20px;
+}
+.Adote1{
+    width: 338px;
+    height: 45px;
+    font-weight: 500px;
+    font-size: 30px;
+    padding: 2px;
+    margin: 10px;
+    margin-bottom: 40px;
+}
+.Doação{
+    width: 150px;
+    height: 42px;
+    margin: 10px;
+    padding: 5px;
+    background-color: #CDCDD2;
+}
+.Adotar{
+    width: 187px;
+    height: 42px;
+    margin: 10px;
+    padding: 5px;
+    background: #CDCDD2;
+}
+.Sobre1{
+    width: 79px;
+    height: 35px;
+    font-weight: 50px;
+    font-size: 30px;
+    margin: 10px;
+    padding: 5px;
+}
+.Lorem1{
+    width: 1228px;
+    height: 43px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.Lorem2{
+    width: 1228px;
+    height: 43px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.Voluntário{
+    width: 177px;
+    height: 42px;
+    background-color: #CDCDD2;
+    border: 2px;
+    margin: 20px;
+    margin-top: 80px;
+    padding: 10px;
+}
+.Elipse{
+    width: 300px;
+    height: 300px;
+    background-color: #CDCDD2;
+    border-radius: 300px;
+    margin: 20px;
+    padding: 2px;
+}
+.Adote2{
+    width: 81px;
+    height: 35px;
+    font-size: 30px;
+    margin: 10px;
+    margin-bottom: 40px;
+    padding: 5px;
+}
+.Lorem3{
+    width: 586px;
+    height: 26px;
+    font-size: 20px;
+    margin: 10px;
+    padding: 5px;
+    margin-bottom: 40px;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-image: url(assets/cachorrinho1-200px.png);
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-image: url(assets/cachorrinho2-200px.jpeg);
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-image: url(assets/cachorrinho3-200px.png);
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background-image: url(assets/cachorrinho4-200px.jpg);
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    background-image: url(assets/cachorrinho5-200px.jpg);
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+}
+.textbox1{
+    width: 200px;
+    height: 80px;
+    display: inline-block;
+    margin: 10px;
+}
+.textbox2{
+    width: 200px;
+    height: 80px;
+    display: inline-block;
+    margin: 10px;
+}
+.textbox3{
+    width: 200px;
+    height: 80px;
+    display: inline-block;
+    margin: 10px;
+}
+.textbox4{
+    width: 200px;
+    height: 80px;
+    display: inline-block;
+    margin: 10px;
+}
+.textbox5{
+    width: 200px;
+    height: 80px;
+    display: inline-block;
+    margin: 10px;
+}
+.Adotar2{
+    background-color: #CDCDD2;
+    border: 2px;
+    width: 45px;
+    height: 20px;
+    margin: 2px;
+}
+.VejaMais{
+    width: 45px;
+    height: 26px;
+    margin: 4px;
+    padding: 4px;
+}
+footer{
+    margin-top: 40px;
+}
+.Amigao{
+    width: 45px;
+    height: 26px;
+    margin: 4px;
+    padding: 4px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: block;
+}
+span{
+    width: 20px;
+    height: 20px; 
+    margin-top: 40px;
+    margin-left: 5px;
+}
+.Endereços{
+    width: 269px;
+    height: 120px;
+    margin: 20px;
+    padding: 10px;
+    margin-left: 2px;
+    font-size: 20px;
+    display: block;
+}
+.Homefoot{
+    width: 69px;
+    height: 26px;
+    margin: 10px;
+    margin-left: 90px;
+    padding: 5px;
+    font-size: 20px;
+}
+.Sobrefoot{
+    width: 69px;
+    height: 26px;
+    margin: 10px;
+    margin-left: 90px;
+    padding: 5px;
+    font-size: 20px;
+}
+.Adotefoot{
+    width: 69px;
+    height: 26px;
+    margin: 10px;
+    margin-left: 90px;
+    padding: 5px;
+    font-size: 20px;
+}
+.SejaVfoot{
+    width: 209px;
+    height: 26px;
+    margin: 10px;
+    margin-left: 90px;
+    padding: 2px;
+    font-size: 20px;
+}
